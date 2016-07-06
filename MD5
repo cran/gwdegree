@@ -1,0 +1,11 @@
+e1c362e5556101774852c612e759285f *DESCRIPTION
+535918b30b4e4e4b26c5cba596cd1d3c *LICENSE
+6ed29d116da5373ba9c1b7431cac31aa *NAMESPACE
+7432788271374b5c4df2f9df596c3e60 *R/functions.R
+8006315926c3af9a7f70821d72edc095 *README.md
+1a775d697b01b023622898e40c3695f0 *inst/app.R
+00531405a7f64a81fb336ef1f2948a7f *man/gwdegree.Rd
+1eaf3374ba7e8b1114530264e25a6347 *tests/testthat.R
+8fc49f97ee2302c5df750deeaf2d0ffc *tests/testthat/test_clusteringCoef.R
+c1786bd20dd14a6a08d8e93e04140328 *tests/testthat/test_deltaGWD.R
+adc543963f08aefbef230780a078c2bd *tests/testthat/test_makeNetwork.R
